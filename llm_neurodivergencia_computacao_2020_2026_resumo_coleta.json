@@ -1,0 +1,9 @@
+{
+  "total_collected_before_unique_filter": 74,
+  "total_saved": 74,
+  "records_with_doi": 11,
+  "records_without_doi": 63,
+  "records_with_arxiv_id": 74,
+  "duplicates_by_unique_code": 0,
+  "unique_rule": "DOI normalizado quando existir; caso contrário, arXiv ID sem versão."
+}
